@@ -1,24 +1,30 @@
 body {
-  
+  background-color:thistle;
 }
 
 h1 {
-
+  text-align:center;
+  display: flexbox;
 }
 
 h2 {
-
+  text-align:center;
+  display: flexbox;
 }
 
 p {
-
+  font-family:Franklin Gothic;
+  text-align:center;
+  display: flexbox;
 }
 
 ul{
-
+  text-align:center;
+  display: flexbox;
 }
 
 li {
-
-
+  text-align:center;
+  display:flow-root;
+  
 }
