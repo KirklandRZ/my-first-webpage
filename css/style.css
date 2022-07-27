@@ -1,43 +1,41 @@
 body {
-  background-color:rgb(18, 17, 66);
+  background-color:rgb(102, 26, 79);
 }
 
-h1 {
-  color:saddlebrown;
+h1,h2 {
   text-align:center;
-  font-family:fantasy;
-  line-height:130px;
+  font-family:georgia;
+  font-weight:lighter;
 }
 
-h2 {
-  color:saddlebrown;
+h3 {
   text-align:center;
-  font-style:italic;
-  font:underline;
 }
 
 p {
-  font-family:Trebuchet MS;
   text-align:center;
-  font-size:125%;
-  color:white;
-}
-
-ul {
-  font-size: 20px;
-  line-height: 30px;
-  text-align:center;
-  color:white;
 }
 
 li {
-  display:table;
-  margin:-8px auto -8px auto;
+  display:inline-flex;
   text-align:center;
-  list-style-position: inside; 
-  color:white;
+  font-family:cambria;
+}
+
+ul {
+  text-align:center;
+  display:flexbox;
 }
 
 div {
-  text-align:center;
+  text-align: center;
+}
+
+p {
+  font-size:120%;
+  font-family:Segoe UI; 
+}
+
+body {
+  background-color: rgb(58, 53, 50);
 }
